@@ -1,6 +1,13 @@
-### 👋 Hi, I’m @Vitinhotecnico2009 🥇
+### Boas Vindas Ao Meu Perfil 🥇
 
-- estou estudando programação e um dia vou me tornar
-um algum dia!
+Meu nome é Vitor Hugo
 
-![_](https://tenor.com/pt-BR/view/default-dance-fortnite-jonesy-gif-15544813113505236864) 
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem de JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos  
+
+### Você entrar em contato comigo 📫
+
+00001105906371SP@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/RSEApix5-HwAAAAC/vegeta-mad.gif)
